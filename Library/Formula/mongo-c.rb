@@ -2,8 +2,8 @@ require "formula"
 
 class MongoC < Formula
   homepage "http://docs.mongodb.org/ecosystem/drivers/c/"
-  url "https://github.com/mongodb/mongo-c-driver/releases/download/1.0.0/mongo-c-driver-1.0.0.tar.gz"
-  sha1 "d9a91374b7273f09da859822e61f3caa09756f23"
+  url "https://github.com/mongodb/mongo-c-driver/releases/download/1.1.0/mongo-c-driver-1.1.0.tar.gz"
+  sha1 "9277fb0afcf595838da0d5e4715df1526d53e020"
 
   bottle do
     cellar :any
